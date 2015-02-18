@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: mqtranslate lagcode widget selector
+Plugin Name: mqtranslate langcode widget selector
 Plugin URI: http://funkydrop.net/
-Version: 0.1
+Version: 1.0
 Author: Koldo Gonzalez
 Author URI: http://funkydrop.net/
 Description: Language widget selector that displays the lang code.
